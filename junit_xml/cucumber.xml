@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+    <testcase classname="IRA AI Agent" name="To test Ira chat workflows for accuracy of results and overall experience." time="0">
+        <failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user is already on Test agent IRA page................................undefined
+When the user clicks on Notification........................................undefined
+And the user gets into the bot..............................................undefined
+And user types Hello greeting message.......................................undefined
+Then a response message is displayed........................................undefined
+And user clicks Start Over button from the Menu Options.....................undefined
+And user selects Download Motor Policy option is clicked....................undefined
+And user clicks on download.................................................undefined
+And user types Test Bot.....................................................undefined
+And user fills the form with Manager values.................................undefined
+And user types New Test.....................................................undefined
+And user clicks on Google...................................................undefined
+And user closes the web view................................................undefined
+And user clicks on Call.....................................................undefined
+And user closes the call popup..............................................undefined
+]]></failure>
+    </testcase>
+</testsuite>
